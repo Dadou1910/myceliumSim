@@ -3,8 +3,8 @@
 Multithreaded mycelium growth simulator. Click anywhere on the window to plant a colony and watch it spread. Each colony gets its own color and competes for space against the others.
 
 <img width="953" height="701" alt="Screenshot from 2026-04-24 10-07-40" src="https://github.com/user-attachments/assets/07e914c4-49cd-429f-b147-3e05bdaee80c" />
-<img width="953" height="701" alt="Screenshot from 2026-04-24 10-08-04" src="https://github.com/user-attachments/assets/5117f2fc-9c21-4bc9-97c6-a34009e3f4ef" />
 <img width="953" height="701" alt="Screenshot from 2026-04-24 10-07-53" src="https://github.com/user-attachments/assets/bc7e4b19-af8c-4823-9800-fb1302d6875b" />
+<img width="953" height="701" alt="Screenshot from 2026-04-24 10-08-04" src="https://github.com/user-attachments/assets/5117f2fc-9c21-4bc9-97c6-a34009e3f4ef" />
 
 
 ## How it works
